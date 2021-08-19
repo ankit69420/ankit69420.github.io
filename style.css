@@ -55,3 +55,18 @@ a.active,a:hover{
 #img{
     overflow: hidden;
 }
+
+.white-text{
+    color :white;
+}
+
+.box{
+    border-color: brown;
+    border-width: 5px;
+    border-style: groove;
+    border-radius: 30%;
+}
+
+.contact-box{
+    background-color: rgb(247, 227, 252);
+}
