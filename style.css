@@ -64,7 +64,7 @@ a.active,a:hover{
     border-color: brown;
     border-width: 5px;
     border-style: groove;
-    border-radius: 10%;
+    border-radius: 5%;
 }
 
 .contact-box{
@@ -88,7 +88,7 @@ a.active,a:hover{
 @media (max-width: 952px){
     label.logo{
         font-size: 20px;
-        padding-left: 50px;
+        padding-left: 30px;
     }
     nav ul li a{
         font-size: 16px;
