@@ -71,6 +71,18 @@ a.active,a:hover{
     background-color: rgb(247, 227, 252);
 }
 
+.button {
+    background-color: #4CAF50; /* Green */
+    margin: 0px 0px 0px 20px;
+    border: none;
+    color: white;
+    padding: 10px 20px 0px 20px;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block;
+    font-size: 18px;
+  }
+
 .checkbtn{
     font-size: 30px;
     color: white;
